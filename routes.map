@@ -1,0 +1,3 @@
+/help=generate_help
+/about=generate_about
+/kml/?=generate_id
