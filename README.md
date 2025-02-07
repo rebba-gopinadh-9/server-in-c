@@ -1,6 +1,6 @@
 # server-in-c
 this is a project to demonstrate a simple extendable sever in c and cpp
-
+#The code is in Master branch given I like to keep my changes according to my local repo style
 
 This is simple demonstration of server that is written in c
 
